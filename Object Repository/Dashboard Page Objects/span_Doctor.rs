@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Doctor</name>
+   <tag></tag>
+   <elementGuidId>cc12017a-26ba-4bc9-9197-fa60e04ad698</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='q-app']/div/div/div/main/div/div/div[2]/div/div/div/div/div[4]/a[4]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.q-btn.q-btn-item.non-selectable.no-outline.q-btn--outline.q-btn--rectangle.q-btn--rounded.text-primary.q-btn--actionable.q-focusable.q-hoverable.standard-button.q-btn--active > span.q-btn__content.text-center.col.items-center.q-anchor--skip.justify-center.row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0e893c35-3ecd-42f5-b591-2f218583d9a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-btn__content text-center col items-center q-anchor--skip justify-center row</value>
+      <webElementGuid>f2e23a84-a60a-4338-91be-2bdc4516ab99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Doctor</value>
+      <webElementGuid>a5c250bb-4fe3-4086-95f8-97a4e7247576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[@class=&quot;q-layout q-layout--standard&quot;]/div[@class=&quot;q-page-container&quot;]/div[@class=&quot;n-config-provider&quot;]/main[@class=&quot;q-page&quot;]/div[@class=&quot;n-layout n-layout--absolute-positioned&quot;]/div[@class=&quot;n-layout-scroll-container&quot;]/div[@class=&quot;n-layout n-layout--absolute-positioned&quot;]/div[@class=&quot;n-layout-scroll-container&quot;]/div[@class=&quot;n-layout n-layout--static-positioned bg-grey-1&quot;]/div[@class=&quot;n-layout-scroll-container&quot;]/div[@class=&quot;q-pa-md full-width&quot;]/div[@class=&quot;row items-center q-gutter-md q-pb-md q-pt-sm&quot;]/a[@class=&quot;q-btn q-btn-item non-selectable no-outline q-btn--outline q-btn--rectangle q-btn--rounded text-primary q-btn--actionable q-focusable q-hoverable standard-button q-btn--active&quot;]/span[@class=&quot;q-btn__content text-center col items-center q-anchor--skip justify-center row&quot;]</value>
+      <webElementGuid>a98d9371-77e9-4408-873b-f76174bcaefb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/div/main/div/div/div[2]/div/div/div/div/div[4]/a[4]/span[2]</value>
+      <webElementGuid>a921441a-09ca-4c2d-9114-bbf859499504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient'])[1]/following::span[2]</value>
+      <webElementGuid>79cc5cf8-adb9-48cf-ac22-a7803f5b6518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Overview'])[1]/following::span[4]</value>
+      <webElementGuid>f12c1c91-9ee2-480e-827f-388b2e02d8f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service'])[1]/preceding::span[2]</value>
+      <webElementGuid>989627c6-7e8b-4d91-bc87-7315caca55ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total arrived appointment and completed visit'])[1]/preceding::span[3]</value>
+      <webElementGuid>8d58a9c2-648e-49d9-b07d-a7b1f4bc502c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Doctor']/parent::*</value>
+      <webElementGuid>f1aa0e3f-81fb-47fd-abc7-db6bbe101646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/span[2]</value>
+      <webElementGuid>eb9c1902-8c3b-4640-8199-9a6f45f2c9af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Doctor' or . = 'Doctor')]</value>
+      <webElementGuid>6c04c531-4dfe-441c-91b8-54e4803f18d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

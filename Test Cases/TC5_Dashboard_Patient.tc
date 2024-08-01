@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>to test Patient button in Dashboard page</description>
+   <name>TC5_Dashboard_Patient</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ac943e0e-9ca5-4929-b8c8-fd31263168bc</testCaseGuid>
+</TestCaseEntity>

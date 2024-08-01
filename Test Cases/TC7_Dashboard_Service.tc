@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>to test Service button in Dashboard page</description>
+   <name>TC7_Dashboard_Service</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f45eeba3-def1-4ce0-a638-39025015f77d</testCaseGuid>
+</TestCaseEntity>

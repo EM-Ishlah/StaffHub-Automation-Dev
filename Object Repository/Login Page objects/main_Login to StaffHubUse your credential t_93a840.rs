@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_Login to StaffHubUse your credential t_93a840</name>
+   <tag></tag>
+   <elementGuidId>2ad76f33-d084-4aab-a72d-b8a4e8d3dbfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='q-app']/div/div/main</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>main.q-page.column.items-center.justify-center.q-py-lg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>8284142a-fc75-46e9-b2dc-99d0fd3214ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-page column items-center justify-center q-py-lg</value>
+      <webElementGuid>4ce4dfb8-8257-4d0b-b0a2-6bc7407708c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login to StaffHubUse your credential to login to the StaffHub.Username Password visibilityForgot password?Login</value>
+      <webElementGuid>0afc045d-3b8b-4d22-a43d-067998749018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[@class=&quot;q-layout q-layout--standard&quot;]/div[@class=&quot;q-page-container&quot;]/main[@class=&quot;q-page column items-center justify-center q-py-lg&quot;]</value>
+      <webElementGuid>4de60ec5-c433-495c-ab06-816fb53ec44b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/main</value>
+      <webElementGuid>e6a23a2e-31ff-4996-97ca-c9de204ef058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main</value>
+      <webElementGuid>bd155471-c550-49ba-bbc2-6cc50ba0c0b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[(text() = 'Login to StaffHubUse your credential to login to the StaffHub.Username Password visibilityForgot password?Login' or . = 'Login to StaffHubUse your credential to login to the StaffHub.Username Password visibilityForgot password?Login')]</value>
+      <webElementGuid>2822e4d8-97c6-449b-bdc2-225db056804c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

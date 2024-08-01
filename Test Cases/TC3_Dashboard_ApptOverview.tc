@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>to test Appointment Overview button in Dashboard page</description>
+   <name>TC3_Dashboard_ApptOverview</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf8e70f1-537a-4182-a2be-26532f4b3496</testCaseGuid>
+</TestCaseEntity>

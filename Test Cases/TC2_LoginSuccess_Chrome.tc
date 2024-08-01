@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To test success scenario in StaffHub login page</description>
+   <name>TC2_LoginSuccess_Chrome</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94efc370-3bda-4aea-8b09-f21d30bd3834</testCaseGuid>
+</TestCaseEntity>
